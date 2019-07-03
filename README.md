@@ -13,8 +13,8 @@ Load Cat scene | Edit Cat scene
 This project is under MIT license. For more information, see LICENSE file.
 
 ## Requirements
-* XCode 8.0 or higher, 
-* Swift 3.0, 
+* XCode 10.0 or higher, 
+* Swift 4.0, 
 * CocoaPods
 
 ## Authors
